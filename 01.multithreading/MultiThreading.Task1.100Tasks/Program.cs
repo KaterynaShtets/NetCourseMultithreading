@@ -23,6 +23,7 @@ namespace MultiThreading.Task1._100Tasks
             Console.WriteLine();
             
             HundredTasks();
+
             Console.ReadLine();
         }
 
